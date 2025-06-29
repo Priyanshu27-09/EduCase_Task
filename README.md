@@ -1,5 +1,7 @@
 React + Vite
+
 PopX Account UI
+
 A responsive React-based user interface for PopX-style account creation, login, and profile display. This app simulates a user onboarding flow with modern UI and basic routing.
 
 🔧 Features
